@@ -1,0 +1,6 @@
+-lib Formula
+-main Main
+-cp src
+-js html/simpleWebgl.js
+
+-dce full
