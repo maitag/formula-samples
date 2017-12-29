@@ -1,2 +1,0 @@
-haxe simpleWebgl.hxml
-pause
